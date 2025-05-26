@@ -6,6 +6,11 @@ The **Real-Time Chat Application** is a web-based communication platform that en
 
 Users can simply enter their name and start chatting, with all messages broadcast instantly to connected clients without page reloads.
 
+<p align="center">
+  <img src="user1.png" width="45%" alt="User 1 View"/>
+  <img src="user2.png" width="45%" alt="User 2 View"/>
+</p>
+
 ---
 
 ## ⚙️ How It Works
@@ -48,18 +53,6 @@ Messages are routed through a Spring-based message broker and broadcast to all s
 - Responsive and clean UI
 - Online status indicator ("Connected")
 - Automatic scroll to latest message
-
----
-
-## 📸 Screenshots
-
-<p align="center">
-  <img src="path/to/user1.png" width="600" alt="User 1 View"/>
-</p>
-
-<p align="center">
-  <img src="path/to/user2.png" width="600" alt="User 2 View"/>
-</p>
 
 ---
 
